@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: GBouerat's blog
+description: I'm an Android developer
+
+show_downloads: false
+google_analytics: UA-91081013-1
